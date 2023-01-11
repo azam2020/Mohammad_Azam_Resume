@@ -3,15 +3,44 @@ html {
 }
 
 h2 {
-    margin: 0;
-    padding: 20px 0;
+    padding: 0 0;
     color: #9f0000;
-    margin-top: 0.83em;
-    margin-bottom: 0.83em;
+    margin-top: 40px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
     font-weight: bold;
 }
+th,td{
+    font-size: large;
+}
+em{
+   font-size: medium;
+}
+p{
+   font-size: large;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+.italic{
+
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+li{
+     font-size: large;
+}
 h3{
-    color: #66bfbf;
+    color: olivedrab;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 hr{
     border-style: dotted none none;
@@ -41,4 +70,12 @@ img:hover{
 }
 .gmail{
    
+}
+
+.near_table{
+    margin-bottom: 20px;
+}
+.gmail_logo{
+    width: 20px;
+    height: 14px;
 }
